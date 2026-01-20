@@ -1,3 +1,6 @@
+This is an overview of the Brick Breaker files. It explains the purpose of each file and what functionality they provide.
+
+
 **Brick_breaker_game.py:**
 Contains the core implementation of the Brick Breaker game using Pygame. It defines the game environment, including the game window, paddle, ball, and bricks, as well as all movement and collision mechanics. This file is required for the other files to work.
 
