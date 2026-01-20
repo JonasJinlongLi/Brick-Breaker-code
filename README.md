@@ -1,4 +1,4 @@
-This is an overview of the Brick Breaker files. It explains the purpose of each file and what functionality they provide.
+**This is an overview of the Brick Breaker files. It explains the purpose of each file and what functionality they provide.**
 
 
 **Brick_breaker_game.py:**
