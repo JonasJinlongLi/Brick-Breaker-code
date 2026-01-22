@@ -18,4 +18,4 @@ This file tracks the number of episodes needed for the agent to win the Brick Br
 
 
 **plot.py:**
-This file compares the performance of two Q-learning agents in the Brick Breaker game: one using an optimistic initial Q-value and one using a deterministic start. This file trains each agent for a number of epochs, tracks the total reward per epoch, and generates a moving average plot of rewards to visualize learning progress. This file takes a relatively long time to generate the graph.
+This file compares the performance of two Q-learning agents in the Brick Breaker game: one using an optimistic initial Q-value and one using a deterministic start. This file trains each agent for a number of epochs, tracks the total reward per epoch, and generates a moving average plot of rewards to visualize the learning progress. This file takes a relatively long time to generate the graph.
