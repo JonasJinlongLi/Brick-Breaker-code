@@ -14,7 +14,7 @@ This file is a reinforcement learning agent that learns to play the Brick Breake
 
 
 **data.py:**
-This file track the number of episodes needed for the agent to win the Brick Breaker game for the first time. The file also provides functionality to run multiple trials, collecting statistics such as the mean and standard deviation of episodes required to achieve a win.
+This file tracks the number of episodes needed for the agent to win the Brick Breaker game for the first time. The file also provides functionality to run multiple trials, collecting statistics such as the mean and standard deviation of episodes required to achieve a win.
 
 
 **plot.py:**
